@@ -6,36 +6,73 @@ export const experience: TimelineEventProps[] = [
     description: (
       <>
         <div>
-          As a Frontend Technical Lead, I have the opportunity to work with and
+          As a Frontend Technical Lead and Team Lead, I am responsability of managing a cross‑functional team of frontend developers, QA engineers, and business analysts and I have the opportunity to work with and
           be responsible for the following:
         </div>
         <ul>
           <li>
-            Setting up and building a Design System using Storybook and React
-          </li>
-          <li>Setting up a Micro Frontends architecture</li>
-          <li>
-            Offering mentoring and technical directions to the frontend
-            development team
+            <b>Mentoring & guidance:</b> Pair‑programming, technical coaching, and sharing best practices
           </li>
           <li>
-            Working alongside product owners and business analysts to provide
-            high-level estimations and technical solutions to new
-            functionalities
+            <b>Planning & estimation:</b> Working with product owners and BAs to scope features and propose solutions
           </li>
-          <li>Conducting technical hiring interviews</li>
-          <li>Conducting annual performance reviews</li>
-          <li>Having regular sync meetings with the frontend developers</li>
+          <li>
+            <b>Hiring & reviews:</b> Conducting technical interviews, annual performance reviews, and setting objectives
+          </li>
+          <li>
+            <b>Team coordination:</b> Running regular syncs with my team and with other frontend developers
+          </li>
+          <li>
+            <b>Code quality:</b> Reviewing pull requests to maintain clean, performant code
+          </li>
+          <li>
+            <b>Design system collaboration:</b> Partnering with UX to implement and evolve our Storybook‑based library
+          </li>
+          <li>
+            <b>CI/CD management:</b> Setting up and maintaining build and deployment pipelines
+          </li>
         </ul>
         <div>Soft Skills: Leadership, Mentorship</div>
         <div>
-          Technical Skills: Angular, React, Storybook, Micro Frontends, RxJS,
+          Technical Skills: React, Storybook, Micro Frontends, RxJS,
           Redux, ReactHooks, React Form Hooks, React Query, React Table,
           Typescript
         </div>
       </>
     ),
+    startPeriod: "2023",
+    hashtag: "#Frontend-Team-Lead #Team Lead",
+  },
+  {
+    title: "Unifiedpost",
+    description: (
+      <>
+        <div>
+          As a Frontend Technical Lead, I had the opportunity to work with and
+          be responsible for the following:
+        </div>
+        <ul>
+          <li>
+            <b>Mentoring & guidance:</b> Pair‑programming, technical coaching, and sharing best practices
+          </li>
+          <li>
+            <b>Planning & estimation:</b> Working with product owners and BAs to scope features and propose solutions
+          </li>
+          <li>
+            <b>Code quality:</b> Reviewing pull requests to maintain clean, performant code
+          </li>
+          <li>
+            <b>CI/CD management:</b> Setting up and maintaining build and deployment pipelines
+          </li>
+        </ul>
+        <div>Soft Skills: Mentorship</div>
+        <div>
+          Technical Skills: Angular, Javascript, Typescript
+        </div>
+      </>
+    ),
     startPeriod: "2019",
+    endPeriod: "2023",
     hashtag: "#Frontend-Technical-Lead",
   },
   {

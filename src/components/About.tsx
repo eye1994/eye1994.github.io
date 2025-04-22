@@ -15,17 +15,8 @@ export const About = () => {
           <span className="hashtag">#Frontend-Technical-Lead</span>
         </div>
         <p>
-          I am Roland Sebestyen and my passion lies in Web Development. I am
-          always eager to explore new and cutting-edge technologies. In the
-          field of Web Development, I have a broad range of experience with
-          several technologies and programming languages including JavaScript,
-          Typescript, Angular, React, Ruby, and NodeJS. My goal is to work as a
-          Full-Stack developer. I am a quick learner and prefer to find the most
-          suitable solution for a situation, rather than being limited to one
-          particular language or framework. I am determined and never give up
-          until I find the answer. I am also passionate about challenges and
-          enjoy facing them. Staying up-to-date with the latest advancements in
-          Web Development is a daily priority for me.
+        I’m a Frontend Technical Lead & Team Lead at Unifiedpost Group with over ten years of hands-on experience. I began my career building Angular apps, then moved into React and, six years ago, stepped into the Technical Lead role for all frontend technologies. For the past two years I’ve been managing a cross‑functional team of frontend developers, QA engineers, and business analysts.
+        Currently I’m leading a project built on a micro‑frontend architecture in an NX monorepo, and we’ve developed our own design system in React and Storybook to ensure consistency and speed up delivery. In my dual role I’m responsible for:
         </p>
       </div>
     </section>

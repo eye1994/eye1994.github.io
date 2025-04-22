@@ -23,7 +23,7 @@ export const competences: CompetenceProps[] = [
   },
   {
     name: "React",
-    percentage: 50,
+    percentage: 100,
   },
   {
     name: "NodeJS",
